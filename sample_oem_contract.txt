@@ -1,0 +1,80 @@
+OEM MANUFACTURING AGREEMENT
+
+This OEM Manufacturing Agreement ("Agreement") is entered into as of January 1, 2026, between:
+
+BUYER: TechCorp Korea Co., Ltd., a Korean corporation ("Buyer")
+MANUFACTURER: GlobalMfg Co., Ltd., a Chinese corporation ("Manufacturer")
+
+ARTICLE 1 – PRODUCTS AND SPECIFICATIONS
+1.1 Manufacturer shall produce products ("Products") strictly according to Buyer's technical specifications, drawings, and quality standards as provided by Buyer from time to time.
+1.2 Buyer may modify specifications at any time with 7 days' written notice. Manufacturer shall implement all changes at Manufacturer's sole cost if changes are deemed "minor" at Buyer's sole discretion.
+1.3 Manufacturer shall maintain all technical know-how, formulas, and designs provided by Buyer in strict confidence. However, Manufacturer retains the right to use general manufacturing knowledge acquired during production for other clients.
+
+ARTICLE 2 – MINIMUM ORDER QUANTITY AND FORECASTS
+2.1 Buyer commits to purchase a minimum of 500,000 units per year ("Annual MOQ"). Failure to meet Annual MOQ requires Buyer to pay a shortfall penalty equal to 20% of the unmet order value.
+2.2 Buyer shall provide rolling 12-month forecasts monthly, which shall be binding for the first 3 months.
+2.3 Manufacturer may allocate production capacity to other customers if Buyer's purchase orders are not placed at least 90 days in advance.
+
+ARTICLE 3 – PRICING AND PAYMENT
+3.1 Unit prices are fixed for the initial 6-month period. Thereafter, Manufacturer may adjust prices with 30 days' notice for any reason, including raw material cost increases, labor cost increases, or currency fluctuations.
+3.2 Payment terms: 50% deposit upon order placement, 50% balance before shipment. Wire transfer only.
+3.3 Late payments shall incur interest at 2% per month (24% per annum) compounded monthly.
+3.4 Buyer shall reimburse all tooling, mold, and fixture costs upfront. Such tooling remains property of Manufacturer upon payment.
+
+ARTICLE 4 – INTELLECTUAL PROPERTY
+4.1 All pre-existing IP of each party remains that party's property.
+4.2 Any improvements, modifications, or derivative works developed by Manufacturer during production, including improvements to Buyer's original designs ("Improvements"), shall be jointly owned by both parties.
+4.3 Manufacturer grants itself a perpetual, irrevocable, royalty-free license to use Buyer's trademarks and product designs for marketing purposes to attract other OEM customers, provided Buyer's name is not explicitly used.
+4.4 Manufacturer shall have the right to independently develop and sell products substantially similar to the Products after termination of this Agreement.
+
+ARTICLE 5 – QUALITY AND INSPECTION
+5.1 Buyer may inspect Products at Manufacturer's facility with 14 days' advance written notice, during normal business hours only, limited to 2 inspections per year.
+5.2 Buyer must raise quality complaints within 15 days of delivery. After 15 days, all Products are deemed accepted.
+5.3 Manufacturer's liability for defective Products is limited to replacement of defective units only. Manufacturer bears no liability for recall costs, customer claims, regulatory fines, or consequential damages arising from product defects.
+5.4 Acceptance rate: Products with defect rate below 3% shall be deemed fully compliant.
+
+ARTICLE 6 – EXCLUSIVITY AND NON-COMPETE
+6.1 Buyer grants Manufacturer the exclusive right to manufacture the Products for Buyer globally.
+6.2 Buyer shall not engage any other manufacturer for Products identical or substantially similar to the Products during the term of this Agreement and for 2 years thereafter.
+6.3 There is no restriction on Manufacturer producing substantially similar or identical products for Buyer's competitors.
+
+ARTICLE 7 – TERM AND TERMINATION
+7.1 Initial term: 3 years, automatically renewing for successive 1-year terms unless terminated.
+7.2 Either party may terminate for convenience with 180 days' written notice.
+7.3 Upon termination by Buyer for convenience, Buyer shall: (a) pay for all work-in-progress at full contract price; (b) purchase all raw material inventory procured for Buyer's account at cost plus 15%; (c) pay a termination fee equal to 6 months of average monthly purchases.
+7.4 Manufacturer may terminate immediately if Buyer fails to pay any invoice within 30 days of due date, or if Buyer's financial condition materially deteriorates in Manufacturer's sole judgment.
+
+ARTICLE 8 – LIABILITY AND INDEMNIFICATION
+8.1 Manufacturer's total liability under this Agreement shall not exceed the amount paid by Buyer in the 3 months preceding the claim.
+8.2 Neither party shall be liable for indirect, incidental, special, or consequential damages, even if advised of the possibility of such damages. However, this limitation does not apply to Buyer's payment obligations.
+8.3 Buyer shall indemnify and hold harmless Manufacturer from any third-party claims arising from the Products, regardless of whether such claims result from Manufacturer's defects.
+
+ARTICLE 9 – COMPLIANCE AND REGULATIONS
+9.1 Buyer is solely responsible for ensuring Products comply with all applicable laws and regulations in Buyer's target markets, including but not limited to CE marking, FCC certification, RoHS compliance, and Korean KC certification.
+9.2 Manufacturer makes no representation or warranty that Products comply with any regulatory standards.
+9.3 Buyer bears all costs of product modifications required by regulatory changes after production commences.
+
+ARTICLE 10 – CONFIDENTIALITY
+10.1 Each party shall keep the other's Confidential Information confidential for 2 years following termination.
+10.2 Manufacturer may disclose Buyer's Confidential Information to subcontractors as necessary for production without Buyer's prior consent.
+10.3 Confidentiality obligations do not apply to information that Manufacturer claims to have independently developed, with Manufacturer's determination being conclusive.
+
+ARTICLE 11 – DISPUTE RESOLUTION AND GOVERNING LAW
+11.1 This Agreement shall be governed by the laws of the People's Republic of China.
+11.2 Any disputes shall be resolved by arbitration in Shanghai, China, under CIETAC rules, conducted in Chinese.
+11.3 The costs of arbitration shall be borne by the losing party, provided that Manufacturer's arbitration costs shall be capped at USD 10,000 regardless of outcome.
+
+ARTICLE 12 – GENERAL PROVISIONS
+12.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements.
+12.2 Manufacturer may assign this Agreement to any affiliate or successor without Buyer's consent. Buyer may not assign this Agreement without Manufacturer's prior written consent.
+12.3 Manufacturer may subcontract any portion of production to third parties without notice to or consent from Buyer.
+12.4 Buyer waives all rights to audit Manufacturer's books and records.
+12.5 Any amendments to this Agreement require written consent of both parties, except that Manufacturer may update Appendices (including price lists and specifications) unilaterally with 30 days' notice.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+BUYER: TechCorp Korea Co., Ltd.          MANUFACTURER: GlobalMfg Co., Ltd.
+By: _______________________              By: _______________________
+Name:                                    Name:
+Title:                                   Title:
+Date:                                    Date:
