@@ -22,7 +22,7 @@ def main() -> None:
     display.print_header()
     display.print_historical_table()
 
-    display.console.print("[dim]몬테카를로 시뮬레이션 실행 중…[/dim]")
+    display.console.print("[dim]몬테카를로 시뮬레이션 실행 중 (A/B 주별 크리에이티브 로테이션 모드)…[/dim]")
     sim = MonteCarloSimulator(n=10_000, seed=42)
     scenarios = sim.run_all()
     display.console.print("[dim]시뮬레이션 완료.[/dim]\n")

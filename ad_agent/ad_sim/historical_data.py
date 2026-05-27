@@ -53,7 +53,7 @@ SCENARIOS = {
     "optimistic": {
         "label": "낙관 (예산 증액 + 인플루언서 확대)",
         "content_count": 15,
-        "budget_krw": 2_100_000,       # 2,100,000원 (15명 × 평균 14만원 CPM)
+        "budget_krw": 2_100_000,
         "views_per_content_mean": 17_000,
         "views_per_content_std": 3_000,
         "ctr_mean": 0.033,
@@ -62,11 +62,14 @@ SCENARIOS = {
         "visit_cvr_std": 0.025,
         "online_cvr_mean": 0.11,
         "online_cvr_std": 0.010,
+        # A/B 크리에이티브 로테이션
+        "new_content_per_week": 4,     # 주당 신규 콘텐츠 (4×4=16건 테스트)
+        "high_eng_keep_pct": 0.25,     # 인게이지먼트 상위 25%는 CTR 무관 유지
     },
     "base": {
         "label": "기준 (동일 규모 유지 — 8월 트렌드 연장)",
         "content_count": 10,
-        "budget_krw": 1_680_000,       # 8월과 동일
+        "budget_krw": 1_680_000,
         "views_per_content_mean": 15_000,
         "views_per_content_std": 2_500,
         "ctr_mean": 0.030,
@@ -75,11 +78,13 @@ SCENARIOS = {
         "visit_cvr_std": 0.020,
         "online_cvr_mean": 0.10,
         "online_cvr_std": 0.010,
+        "new_content_per_week": 3,     # 3×4=12건 테스트
+        "high_eng_keep_pct": 0.25,
     },
     "pessimistic": {
         "label": "비관 (7월 수준으로 반등 실패)",
         "content_count": 8,
-        "budget_krw": 1_344_000,       # 7월 수준
+        "budget_krw": 1_344_000,
         "views_per_content_mean": 12_000,
         "views_per_content_std": 3_000,
         "ctr_mean": 0.020,
@@ -88,5 +93,7 @@ SCENARIOS = {
         "visit_cvr_std": 0.025,
         "online_cvr_mean": 0.08,
         "online_cvr_std": 0.012,
+        "new_content_per_week": 2,     # 2×4=8건 테스트
+        "high_eng_keep_pct": 0.25,
     },
 }
