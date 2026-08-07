@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fast PDF to Markdown"
+  short_description: "PDF를 빠르게 Markdown으로 변환하고 품질 위험을 표시"
+  default_prompt: "$fast-pdf-to-markdown을 사용해 이 PDF를 페이지 앵커가 있는 Markdown과 품질 보고서로 변환하세요."
