@@ -4,7 +4,7 @@
 
 An AI-powered revenue intelligence suite that connects the dots between sales calls, content performance, and closed deals. These tools pull from Gong, GA4, HubSpot, and Ahrefs to answer the questions every marketing team hates: "What content actually drove revenue?" and "What are prospects really saying on calls?"
 
-Built in production at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills). Now open-sourced for any revenue-focused marketing team.
+Built in production at Single Grain. Now open-sourced for any revenue-focused marketing team.
 
 ---
 
@@ -313,17 +313,3 @@ revenue-intelligence/
 ├── revenue_attribution.py          # Content → revenue mapping
 └── client_report_generator.py      # Multi-source client BI reports
 ```
-
----
-
-<div align="center">
-
-**🧠 [Want these built and managed for you? →](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)**
-
-*This is how we build agents at [Single Brain](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) for our clients.*
-
-[Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) · our marketing agency
-
-📬 **[Level up your marketing with 14,000+ marketers and founders →](https://levelingup.beehiiv.com/subscribe)** *(free)*
-
-</div>

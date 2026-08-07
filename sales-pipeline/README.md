@@ -4,7 +4,7 @@
 
 A complete AI-powered sales pipeline automation suite: from website visitor identification through intent scoring, suppression, campaign routing, dead deal resurrection, trigger-based prospecting, and self-learning ICP optimization.
 
-These tools were built in production at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills), processing thousands of visitors and deals weekly. Now open-sourced for any company to use.
+These tools were built in production at Single Grain, processing thousands of visitors and deals weekly. Now open-sourced for any company to use.
 
 ---
 
@@ -341,17 +341,3 @@ sales-pipeline/
 7. **ICP Analyzer** learns from your approve/reject decisions and tightens targeting
 
 The result: a self-improving pipeline that gets better the more you use it.
-
----
-
-<div align="center">
-
-**🧠 [Want these built and managed for you? →](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)**
-
-*This is how we build agents at [Single Brain](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) for our clients.*
-
-[Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) · our marketing agency
-
-📬 **[Level up your marketing with 14,000+ marketers and founders →](https://levelingup.beehiiv.com/subscribe)** *(free)*
-
-</div>

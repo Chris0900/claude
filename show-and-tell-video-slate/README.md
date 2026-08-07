@@ -53,9 +53,3 @@ Scores prioritize production. They are not predictions of views, clicks, or reve
 ## Privacy
 
 Use only authorized source material. Keep raw conversations, customer data, private screenshots, exports, credentials, and proof artifacts outside this repository. Redact sensitive information before showing a screen or publishing a case study.
-
----
-
-<p align="center">
-  Built by <a href="https://www.singlegrain.com/?utm_source=github&utm_medium=repo&utm_campaign=ai-marketing-skills">Single Grain</a>. Powered by <a href="https://www.singlebrain.com/?utm_source=github&utm_medium=repo&utm_campaign=ai-marketing-skills">Single Brain</a>.
-</p>

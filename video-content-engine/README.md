@@ -28,9 +28,3 @@ The skill defaults to diagnosis. Uploading, scheduling, publishing, changing sha
 - Authorized access to the source and third-party assets
 
 The bundled validators use only the Python standard library.
-
----
-
-<p align="center">
-  Built by <a href="https://www.singlegrain.com/?utm_source=github&utm_medium=repo&utm_campaign=ai-marketing-skills">Single Grain</a>. Powered by <a href="https://www.singlebrain.com/?utm_source=github&utm_medium=repo&utm_campaign=ai-marketing-skills">Single Brain</a>.
-</p>

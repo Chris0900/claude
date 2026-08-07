@@ -4,7 +4,7 @@
 
 A complete framework for value-based pricing in B2B services sales: pre-call competitive briefings, tiered package generation, post-call analysis, and a proven pattern library for training sales teams.
 
-These tools were built from real sales call patterns at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills), where deals routinely moved from $10K/mo to $40-100K/mo using the techniques in this playbook. Now open-sourced for any sales team to use.
+These tools were built from real sales call patterns at Single Grain, where deals routinely moved from $10K/mo to $40-100K/mo using the techniques in this playbook. Now open-sourced for any sales team to use.
 
 ---
 
@@ -202,17 +202,3 @@ sales-playbook/
 5. **Continuous improvement:** Analyze call scores over time to identify which patterns your team needs to practice
 
 The result: a systematic approach to value-based pricing that turns data into leverage and conversations into larger deals.
-
----
-
-<div align="center">
-
-**🧠 [Want these built and managed for you? →](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)**
-
-*This is how we build agents at [Single Brain](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) for our clients.*
-
-[Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) · our marketing agency
-
-📬 **[Level up your marketing with 14,000+ marketers and founders →](https://levelingup.beehiiv.com/subscribe)** *(free)*
-
-</div>

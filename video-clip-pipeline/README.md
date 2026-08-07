@@ -269,17 +269,3 @@ This pipeline architecture (download → transcribe → AI segment → cut → u
 - **Near-zero** manual effort after initial setup
 
 The strategy works best in months 2–4 when processing a back catalog. After the catalog is exhausted, shift to clipping new episodes within 48 hours of release.
-
----
-
-<div align="center">
-
-**🧠 [Want these built and managed for you? →](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)**
-
-*This is how we build agents at [Single Brain](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) for our clients.*
-
-[Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) · our marketing agency
-
-📬 **[Level up your marketing with 14,000+ marketers and founders →](https://levelingup.beehiiv.com/subscribe)** *(free)*
-
-</div>
